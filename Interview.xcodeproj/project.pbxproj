@@ -13,6 +13,8 @@
 		BFE35396200803B5008EF758 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BFE35395200803B5008EF758 /* Assets.xcassets */; };
 		BFE35399200803B5008EF758 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BFE35397200803B5008EF758 /* LaunchScreen.storyboard */; };
 		BFE3539C200803B5008EF758 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = BFE3539B200803B5008EF758 /* main.m */; };
+		BFE353A42008043B008EF758 /* API.m in Sources */ = {isa = PBXBuildFile; fileRef = BFE353A32008043B008EF758 /* API.m */; };
+		BFE353A7200806F7008EF758 /* menu-mock-up.png in Resources */ = {isa = PBXBuildFile; fileRef = BFE353A6200806F7008EF758 /* menu-mock-up.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,10 @@
 		BFE35398200803B5008EF758 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BFE3539A200803B5008EF758 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BFE3539B200803B5008EF758 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		BFE353A22008043B008EF758 /* API.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = API.h; sourceTree = "<group>"; };
+		BFE353A32008043B008EF758 /* API.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = API.m; sourceTree = "<group>"; };
+		BFE353A52008063F008EF758 /* Instructions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Instructions.h; sourceTree = "<group>"; };
+		BFE353A6200806F7008EF758 /* menu-mock-up.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "menu-mock-up.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,8 +64,11 @@
 		BFE3538B200803B5008EF758 /* Interview */ = {
 			isa = PBXGroup;
 			children = (
+				BFE353A52008063F008EF758 /* Instructions.h */,
 				BFE3538C200803B5008EF758 /* AppDelegate.h */,
 				BFE3538D200803B5008EF758 /* AppDelegate.m */,
+				BFE353A22008043B008EF758 /* API.h */,
+				BFE353A32008043B008EF758 /* API.m */,
 				BFE3538F200803B5008EF758 /* ViewController.h */,
 				BFE35390200803B5008EF758 /* ViewController.m */,
 				BFE35392200803B5008EF758 /* Main.storyboard */,
@@ -67,6 +76,7 @@
 				BFE35397200803B5008EF758 /* LaunchScreen.storyboard */,
 				BFE3539A200803B5008EF758 /* Info.plist */,
 				BFE3539B200803B5008EF758 /* main.m */,
+				BFE353A6200806F7008EF758 /* menu-mock-up.png */,
 			);
 			path = Interview;
 			sourceTree = "<group>";
@@ -131,6 +141,7 @@
 			files = (
 				BFE35399200803B5008EF758 /* LaunchScreen.storyboard in Resources */,
 				BFE35396200803B5008EF758 /* Assets.xcassets in Resources */,
+				BFE353A7200806F7008EF758 /* menu-mock-up.png in Resources */,
 				BFE35394200803B5008EF758 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -144,6 +155,7 @@
 			files = (
 				BFE35391200803B5008EF758 /* ViewController.m in Sources */,
 				BFE3539C200803B5008EF758 /* main.m in Sources */,
+				BFE353A42008043B008EF758 /* API.m in Sources */,
 				BFE3538E200803B5008EF758 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
