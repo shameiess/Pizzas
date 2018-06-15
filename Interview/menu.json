@@ -1,0 +1,392 @@
+[
+  {
+    "Classics": [
+      {
+        "id": 9,
+        "name": "Thom Be Good",
+        "price": "16.00",
+        "menu_asset_id": 439,
+        "menu_description": "An old-school sausage and pepperoni combo",
+        "vegetarian": 0,
+        "spicy": 0,
+        "classifications": {
+        },
+        "menu_badge_id": null,
+        "category_id": 6,
+        "discountable": true,
+        "addon": false,
+        "menuAsset": {
+          "id": 439,
+          "url": "https://assets.zumepizza.com/public/2ks8zzco.png"
+        },
+        "menuBadge": {
+        },
+        "toppings": [
+          {
+            "id": 5,
+            "name": "Mozzarella",
+            "type": "Cheese",
+            "asset_id": 24,
+            "station": 1,
+            "description": null,
+            "asset": {
+              "id": 24,
+              "url": "https://assets.zumepizza.com/public/apeazvow.png"
+            }
+          },
+          {
+            "id": 23,
+            "name": "Pepperoni",
+            "type": "Meat",
+            "asset_id": 49,
+            "station": 3,
+            "description": null,
+            "asset": {
+              "id": 49,
+              "url": "https://assets.zumepizza.com/public/e2h690b2.png"
+            }
+          },
+          {
+            "id": 26,
+            "name": "Roasted Garlic",
+            "type": "Vegetable",
+            "asset_id": 21,
+            "station": 3,
+            "description": null,
+            "asset": {
+              "id": 21,
+              "url": "https://assets.zumepizza.com/public/s4o6jsl6.png"
+            }
+          },
+          {
+            "id": 7,
+            "name": "Sausage",
+            "type": "Meat",
+            "asset_id": 36,
+            "station": 1,
+            "description": null,
+            "asset": {
+              "id": 36,
+              "url": "https://assets.zumepizza.com/public/s5a3zepx.png"
+            }
+          },
+          {
+            "id": 1,
+            "name": "Tomato Sauce",
+            "type": "Sauce",
+            "asset_id": 219,
+            "station": 0,
+            "description": null,
+            "asset": {
+              "id": 219,
+              "url": "https://assets.zumepizza.com/public/3i572qur.png"
+            }
+          }
+        ],
+        "availability": {
+          "isLimited": false,
+          "quantity": 0
+        }
+      },
+      {
+        "id": 12,
+        "name": "Cheazy-E",
+        "price": "10.00",
+        "menu_asset_id": 442,
+        "menu_description": "Just cheese please!",
+        "vegetarian": 1,
+        "spicy": 0,
+        "classifications": {
+          "vegetarian": true
+        },
+        "menu_badge_id": null,
+        "category_id": 6,
+        "discountable": true,
+        "addon": false,
+        "menuAsset": {
+          "id": 442,
+          "url": "https://assets.zumepizza.com/public/v2a63wky.png"
+        },
+        "menuBadge": {
+        },
+        "toppings": [
+          {
+            "id": 121,
+            "name": "Asiago",
+            "type": "Cheese",
+            "asset_id": 610,
+            "station": 1,
+            "description": null,
+            "asset": {
+              "id": 610,
+              "url": "https://assets.zumepizza.com/public/gnhvc83u.png"
+            }
+          },
+          {
+            "id": 5,
+            "name": "Mozzarella",
+            "type": "Cheese",
+            "asset_id": 24,
+            "station": 1,
+            "description": null,
+            "asset": {
+              "id": 24,
+              "url": "https://assets.zumepizza.com/public/apeazvow.png"
+            }
+          },
+          {
+            "id": 143,
+            "name": "Muenster",
+            "type": "Cheese",
+            "asset_id": 758,
+            "station": 1,
+            "description": null,
+            "asset": {
+              "id": 758,
+              "url": "https://assets.zumepizza.com/public/nt4oad53.png"
+            }
+          },
+          {
+            "id": 1,
+            "name": "Tomato Sauce",
+            "type": "Sauce",
+            "asset_id": 219,
+            "station": 10,
+            "description": null,
+            "asset": {
+              "id": 219,
+              "url": "https://assets.zumepizza.com/public/3i572qur.png"
+            }
+          }
+        ],
+        "availability": {
+          "isLimited": false,
+          "quantity": 0
+        }
+      }
+    ],
+    "Signature": [
+      {
+        "id": 52,
+        "name": "Zupreme",
+        "price": "20.00",
+        "menu_asset_id": 438,
+        "menu_description": "A hearty old-school classic combo",
+        "vegetarian": null,
+        "spicy": null,
+        "classifications": {
+        },
+        "menu_badge_id": null,
+        "category_id": 6,
+        "discountable": true,
+        "addon": false,
+        "menuAsset": {
+          "id": 438,
+          "url": "https://assets.zumepizza.com/public/i3dk55ju.png"
+        },
+        "menuBadge": {
+        },
+        "toppings": [
+          {
+            "id": 25,
+            "name": "Cremini Mushroom",
+            "type": "Vegetable",
+            "asset_id": 19,
+            "station": 1,
+            "description": null,
+            "asset": {
+              "id": 19,
+              "url": "https://assets.zumepizza.com/public/psh7ywia.png"
+            }
+          },
+          {
+            "id": 74,
+            "name": "Kalamata Olives",
+            "type": "Vegetable",
+            "asset_id": 254,
+            "station": 3,
+            "description": null,
+            "asset": {
+              "id": 254,
+              "url": "https://assets.zumepizza.com/public/ezuum3ch.png"
+            }
+          },
+          {
+            "id": 5,
+            "name": "Mozzarella",
+            "type": "Cheese",
+            "asset_id": 24,
+            "station": 1,
+            "description": null,
+            "asset": {
+              "id": 24,
+              "url": "https://assets.zumepizza.com/public/apeazvow.png"
+            }
+          },
+          {
+            "id": 2,
+            "name": "Oregano",
+            "type": "Finish",
+            "asset_id": 26,
+            "station": 3,
+            "description": null,
+            "asset": {
+              "id": 26,
+              "url": "https://assets.zumepizza.com/public/1dlixxge.png"
+            }
+          },
+          {
+            "id": 23,
+            "name": "Pepperoni",
+            "type": "Meat",
+            "asset_id": 49,
+            "station": 3,
+            "description": null,
+            "asset": {
+              "id": 49,
+              "url": "https://assets.zumepizza.com/public/e2h690b2.png"
+            }
+          },
+          {
+            "id": 24,
+            "name": "Poblano Pepper",
+            "type": "Finish",
+            "asset_id": 30,
+            "station": 3,
+            "description": null,
+            "asset": {
+              "id": 30,
+              "url": "https://assets.zumepizza.com/public/yvwwwysc.png"
+            }
+          },
+          {
+            "id": 75,
+            "name": "Red Onions",
+            "type": "Vegetable",
+            "asset_id": 224,
+            "station": 3,
+            "description": null,
+            "asset": {
+              "id": 224,
+              "url": "https://assets.zumepizza.com/public/j8cy3gh3.png"
+            }
+          },
+          {
+            "id": 7,
+            "name": "Sausage",
+            "type": "Meat",
+            "asset_id": 36,
+            "station": 1,
+            "description": null,
+            "asset": {
+              "id": 36,
+              "url": "https://assets.zumepizza.com/public/s5a3zepx.png"
+            }
+          },
+          {
+            "id": 1,
+            "name": "Tomato Sauce",
+            "type": "Sauce",
+            "asset_id": 219,
+            "station": 0,
+            "description": null,
+            "asset": {
+              "id": 219,
+              "url": "https://assets.zumepizza.com/public/3i572qur.png"
+            }
+          }
+        ],
+        "availability": {
+          "isLimited": false,
+          "quantity": 0
+        }
+      }],
+    "Seasonal": [
+      {
+        "id": 13,
+        "name": "SGT. Pepperoni",
+        "price": "10.00",
+        "menu_asset_id": 440,
+        "menu_description": "Pepperoni and cheese - the perfect pairing",
+        "vegetarian": 0,
+        "spicy": 0,
+        "classifications": {
+        },
+        "menu_badge_id": null,
+        "category_id": 6,
+        "discountable": true,
+        "addon": false,
+        "menuAsset": {
+          "id": 440,
+          "url": "https://assets.zumepizza.com/public/fxkwk3gl.png"
+        },
+        "menuBadge": {
+        },
+        "toppings": [
+          {
+            "id": 121,
+            "name": "Asiago",
+            "type": "Cheese",
+            "asset_id": 610,
+            "station": 1,
+            "description": null,
+            "asset": {
+              "id": 610,
+              "url": "https://assets.zumepizza.com/public/gnhvc83u.png"
+            }
+          },
+          {
+            "id": 5,
+            "name": "Mozzarella",
+            "type": "Cheese",
+            "asset_id": 24,
+            "station": 1,
+            "description": null,
+            "asset": {
+              "id": 24,
+              "url": "https://assets.zumepizza.com/public/apeazvow.png"
+            }
+          },
+          {
+            "id": 143,
+            "name": "Muenster",
+            "type": "Cheese",
+            "asset_id": 758,
+            "station": 1,
+            "description": null,
+            "asset": {
+              "id": 758,
+              "url": "https://assets.zumepizza.com/public/nt4oad53.png"
+            }
+          },
+          {
+            "id": 23,
+            "name": "Pepperoni",
+            "type": "Meat",
+            "asset_id": 49,
+            "station": 3,
+            "description": null,
+            "asset": {
+              "id": 49,
+              "url": "https://assets.zumepizza.com/public/e2h690b2.png"
+            }
+          },
+          {
+            "id": 1,
+            "name": "Tomato Sauce",
+            "type": "Sauce",
+            "asset_id": 219,
+            "station": 10,
+            "description": null,
+            "asset": {
+              "id": 219,
+              "url": "https://assets.zumepizza.com/public/3i572qur.png"
+            }
+          }
+        ],
+        "availability": {
+          "isLimited": false,
+          "quantity": 0
+        }
+      }]
+  }]
